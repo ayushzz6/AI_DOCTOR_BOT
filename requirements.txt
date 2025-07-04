@@ -1,0 +1,15 @@
+groq
+ffmpeg
+PyAudio
+speechrecognition
+pydub
+elevenlabs
+gtts
+dotenv
+playsound
+gradio 
+sounddevice
+soundfile
+
+
+
